@@ -80,3 +80,5 @@ Neki od radova koje možemo da iskoristimo:
 - (https://dl.acm.org/doi/abs/10.1145/2532748.2532751) Evaluation of games for teaching computer science
 - ...
 
+Pomocni linkovi:
+- https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-023-00447-2 Game-based learning in computer science education: a scoping literature review
