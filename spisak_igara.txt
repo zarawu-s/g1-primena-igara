@@ -1,0 +1,76 @@
+https://www.gdatasoftware.com/blog/2020/06/36000-10-best-computer-science-edutainment-games
+//Link iznad sadrzi neke osnovne informacije o igrama ispod kao sto su opis, tezina, koji programski jezik se uci itd
+1) Codingame
+2) Codegym
+3) Elevator saga
+4) Untrusted
+5) Code Combat
+6) Codemonkey
+7) VIM adventures
+8) Flexboxfroggy & Flexboxdefense
+9) Baba Is You
+10) Lightbot
+
+https://www.filamentgames.com/blog/5-great-games-teach-computer-science/
+
+11) Human Resource Machine EDU
+12) SpaceChem
+
+https://ioinformatics.org/journal/v10_2016_39_60.pdf //ovaj rad generalno moze da bude od koristi
+13) Leek Wars
+14) Code Hunt
+15) Code Fights
+
+ChatGPT preporuke:
+
+Baze podataka:
+ 16) SQLZoo //https://sqlzoo.net/wiki/SQL_Tutorial
+ 17) DBDesigner //https://erd.dbdesigner.net/designer/schema/guest_template
+
+Operativni Sistemi:
+ 18) Little Alchemy 2 (za razumevanje interakcija između različitih elemenata, slično operativnom sistemu)
+ 19) osDev (za učenje razvoja operativnih sistema)
+
+Veštačka Inteligencija:
+ 20) Google's Teachable Machine (za osnovno razumevanje koncepta veštačke inteligencije)
+ 21) AI Dungeon (za isprobavanje priče generisane veštačkom inteligencijom)
+
+Grafički Dizajn i Animacija:
+ 22) Blender (3D modeliranje i animacija)
+ 23) Piskel (izrada piksel arta)
+
+Softverski Razvoj:
+ 24) GitHub Learning Lab (nudi interaktivne kurseve za korišćenje Git-a i GitHub-a)
+
+Web Razvoj:
+ 25) CSS Diner (učenje CSS selektora)
+
+https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-023-00447-2 //moze da bude korisno
+
+https://www.inspiritai.com/blogs/ai-student-blog/coding-games-for-kids
+26) Screeps
+27) Robocode
+28) TIS-100
+29) Blocky Games
+30) Hack 'n' Slash
+31) Infinifactory
+32) Minecraft: Education Edition
+
+https://gamerant.com/games-teach-computer-science/#portal-2-makes-players-die-repeatedly-for-computer-science
+33) Portal 2
+34) Glitchspace
+35) Little Big Planet 2
+36) While True: Learn ()
+37) Gladiabots - AI Combat Arena
+38) The Talos Principle
+39) Minecraft (misli se na pravljenje masina koriscenjem redstone)
+
+https://csforca.org/six-computer-science-games-and-activities-to-entertain-your-kids/
+40) Blockly
+41) Blockly:Maze
+42) Spacehem
+43) RoboZZle
+
+https://skillcrush.com/blog/free-coding-games/
+44) Ruby Warrior
+45) CheckiO 
