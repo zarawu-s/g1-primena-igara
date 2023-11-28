@@ -82,3 +82,9 @@ Neki od radova koje možemo da iskoristimo:
 
 Pomocni linkovi:
 - https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-023-00447-2 Game-based learning in computer science education: a scoping literature review
+
+- https://serc.carleton.edu/teachearth/teaching_methods/games/goodgame.html - what makes a good game?
+
+- https://www.prodigygame.com/main-en/blog/game-based-learning/ - game based learning
+
+- https://files.eric.ed.gov/fulltext/EJ1090277.pdf - foundations of game based learning
