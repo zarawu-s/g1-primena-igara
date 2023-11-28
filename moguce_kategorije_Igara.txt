@@ -1,0 +1,29 @@
+TIP IGRE:
+	- singleplayer
+	- multiplayer
+
+TEZINA:
+	- za pocetnike
+	- za napredne
+	- za eksperte
+
+TEHNOLOGIJE KOJE SE UCE:
+	- programski jezici
+		- sintaksa (pisanje koda)
+		- petlje (kako funkcionisu petlje i neki algoritmi)
+		- ...
+	- programiranje botova
+	- ucenje koriscenja nekog okruzenja (npr. github)
+	- ...
+
+NA OSNOVU PLATFORME:
+	- za PC
+	- za mobilni telefon
+
+NA OSNOVU UZRASTA:
+	- za decu
+	- za srednjoskolce
+	- za studente
+	- za odrasle
+
+...

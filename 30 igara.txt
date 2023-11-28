@@ -1,0 +1,46 @@
+https://www.gdatasoftware.com/blog/2020/06/36000-10-best-computer-science-edutainment-games
+1) The descent (Codingame.com) - https://www.codingame.com/training/easy/the-descent
+2) Clash of Code (Codingame.com) - https://www.codingame.com/multiplayer/clashofcode
+3) Mad Pod Racing (Codingame.com) - https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing
+4) Hungry Snake (Codegym) - https://codegym.cc/projects/games/com.codegym.games.snake
+5) Elevator Saga - https://play.elevatorsaga.com/ (dokumentacija za ovu igru: https://play.elevatorsaga.com/documentation.html)
+6) Untrusted - https://alexnisnevich.github.io/untrusted/
+7) Code Combat - https://codecombat.com/play
+8) Codemonkey - https://www.codemonkey.com/
+9) VIM Adventures - https://vim-adventures.com/
+10) Flexbox Froggy - https://flexboxfroggy.com/#sr
+11) Flexbox Defense - http://www.flexboxdefense.com/
+12) Lightbot - https://lightbot.com/
+
+https://www.filamentgames.com/blog/5-great-games-teach-computer-science/
+13) Human Resource Machine EDU - https://tomorrowcorporation.com/human-resource-machine-hour-of-code-edition (dodatan artikal samo o ovoj igri sa istog sajta: https://www.filamentgames.com/blog/learning-code-human-resource-machine-edu/)
+
+https://ioinformatics.org/journal/v10_2016_39_60.pdf
+14) Leek Wars - https://leekwars.com/
+15) Code Hunt - https://www.microsoft.com/en-us/research/project/code-hunt/
+16) CodeSignal(nekad CodeFights) - https://codesignal.com/
+
+ChatGPT preporuke
+17) SQLZoo - https://sqlzoo.net/wiki/SQL_Tutorial
+18) DB Designer - https://erd.dbdesigner.net/designer/schema/guest_template
+19) AI Dungeon - https://aidungeon.com/
+20) CSS Diner - https://flukeout.github.io/
+
+https://www.inspiritai.com/blogs/ai-student-blog/coding-games-for-kids //igre za decu, uz svaku naveden uzrast
+21) Screeps - https://screeps.com/
+22) Robocode - https://robocode.sourceforge.io/
+23) TIS-100 - https://www.zachtronics.com/tis-100/
+24) Blockly Games - https://blockly.games/
+25) Hack 'n' Slash - http://www.hacknslashthegame.com/
+
+https://gamerant.com/games-teach-computer-science/#portal-2-makes-players-die-repeatedly-for-computer-science
+26) While True: learn() - https://store.epicgames.com/en-US/p/while-true-learn (dodatni link samo za ovu igru: https://gamerant.com/epic-games-store-free-game-while-true-learn-coding-programming/)
+
+https://skillcrush.com/blog/free-coding-games/
+27) CheckiO - https://checkio.org/
+28) Code Wars - https://www.codewars.com/
+
+https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code/
+29) SQL Murder Mystery - https://mystery.knightlab.com/
+30) Duskers - http://duskers.misfits-attic.com/FAQ.html
+
