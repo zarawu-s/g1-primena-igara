@@ -1,0 +1,49 @@
+Pitanja i komentari za fazu 2: 
+- da li je dokument za fazu 2, samo nadogradnja dokumenta iz faze 1 (da li treba da sadrži ceo dokument 1 ili samo delove ili ništa)
+- da li se fokusiramo na igre koje smo našli i obradimo svaku posebno ili se fokusiramo na kategorije i odlike igara i iz tog ugla gledamo na igre (potpitanje: ako se fokusiramo na igre, kako će onda da izgleda prezentacija za f2, jer bi o svakoj igri trebalo da kažemo ponešto, znači 10min na 3o igara, što bi bilo oko 20sec za svaku?)
+- mnoge igre koje sam našla a da nisu baš za programiranje su iz 80-tih i 90-tih, i nisam našla link, samo članke na wiki...
+
+Cybersecurity:
+
+1. Game: "Hack The Box"
+Description: Hack The Box is an online platform that provides challenges and simulated environments for users to practice and improve their penetration testing and cybersecurity skills in a legal and controlled environment.
+
+2. CyberStart Game:
+Description: CyberStart Game is designed for students and beginners interested in cybersecurity. It features interactive challenges and puzzles covering a range of topics, including cryptography, forensics, and web security.
+
+3. TryHackMe:
+Description: TryHackMe is an online platform that offers a variety of virtual rooms and labs for learning cybersecurity. It covers topics like penetration testing, network security, and more, with hands-on, interactive challenges.
+
+------
+4. OverTheWire - Bandit:
+Description: Bandit is a beginner-friendly game that introduces players to Linux command-line and basic security concepts. Players solve challenges by navigating a series of levels using SSH.
+
+5. Computer Architecture:
+Nand2Tetris:
+https://www.nand2tetris.org
+Description: Nand2Tetris is a project-based course that takes you through building a computer from basic logic gates.
+
+sa Reddit-a
+6. Circuit Scramble
+mobile app
+Challenging puzzles based on real world digital logic gates
+
+7. Human Resourse Machine
+https://tomorrowcorporation.com/humanresourcemachine
+Plaća se
+
+8. Logic Gate Puzzles
+https://computerscienced.co.uk/site/logic-gate-puzzles/
+
+9. Nandgame
+Build a computer starting from basic components.
+https://nandgame.com
+
+10. Binary Knight
+
+11. Untrusted
+https://alexnisnevich.github.io/untrusted/
+
+12. LittleManComputer (LMC) Simulator:
+Description: LMC is a simplified model of a computer used for teaching assembly language and machine-level programming. It's not a game but serves as an interactive tool.
+https://peterhigginson.co.uk/LMC/?F5=04-Dec-23_21:38:15
