@@ -1,0 +1,55 @@
+Razumevanje petlji 
+- The descent 
+
+Programiranje uopsteno (pisanje sintakse, razumevanje osnovnih koncepata) 
+- Clash of Code
+- Elevator Saga
+- Untrusted
+- Code Combat
+- Codemonkey
+- Lightbot
+- Flexbox Froggy (CSS stilovi)
+- Flexbox Defense (CSS stilovi)
+- Human Resource Machine EDU
+- Leek Wars
+- Code Hunt
+- CSS Diner (CSS stilovi)
+- Screeps (programiranje u JS, programiranje botova, AI)
+- TIS-100 (asemblerski jezik)
+- LittleManComputer (LMC) Simulator (asemblerski jezik i registri) //mozda moze kao posebna kategorija
+- Blockly Games (razumevanje klasa, za decu)
+- While True: learn() (machine learning, neural networks, big data and AI), ne znam u koju kategoriju bih smestio
+- CheckiO (TS i Python)
+- Code Wars
+
+Baze podataka
+- DB Designer (razumevanje relacije izmedju baza)
+- SQLZoo
+- SQL Murder Mystery
+
+Programiranje ponasanja botova 
+- Mad Pod Racing
+- Ovde moze i Screeps, ali je bolje da bude u kategoriji programiranje jer obuhvata jos neke stvari
+- Robocode
+
+Navikavanje na radno okruzenje
+- VIM adventures
+
+Vestacka inteligencija
+- AI Dungeon
+
+Hakovanje / Cyber security
+- Hack 'n' Slash
+- Quadrilateral Cowboy
+- Cyberstart
+- OverTheWire - Bandit
+
+Command prompt komande
+- Duskers
+
+Upoznavanje sa komponentama racunara 
+- PC Building Simulator 2
+
+Razumevanje logickih kola
+- Circuit Scramble
+- Nandgame
